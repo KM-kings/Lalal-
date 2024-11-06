@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+  font-size: 24px;
+  background-color: red;
+ border-radius: 5px;
+ padding: 10px;
+}
+
+h1:hover {
+  background-color: limegreen;
+}
+
+h2 {
+  font-size: 19px;
+  text-align: center;
+}
+
+li {
+  color:black;
+  
+}
